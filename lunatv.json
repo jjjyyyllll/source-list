@@ -40,8 +40,8 @@
                 "api": "https://yutuzy10.com/api.php/provide/vod",
                 "name": "玉兔资源",
                 "detail": "https://yutuzy10.com"
-              }
-                  "kauiboziyuan": {
+              }, 
+              "kauiboziyuan": {
                 "api": "https://gayapi.com/api.php/provide/vod",
                 "name": "快播資源",
                 "detail": "https://hsckzy.vip"
@@ -135,7 +135,7 @@
                 "api": "https://jkunzyapi.com/api.php/provide/vod",
                 "name": "JKUN黄色资源",
                 "detail": "https://jkunzyapi.com"
-              }
+              }, 
                   "AV5": {
                 "api": "https://91md.me/api.php/provide/vod/",
                 "name": "AV-91麻豆",
@@ -205,7 +205,7 @@
                 "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
                 "name": "AV-草榴资源",
                 "detail": "https://www.caoliuzyw.com"
-              }
+              }, 
               "api_52": {
                 "name": "AV-91麻豆",
                 "api": "https://91md.me/api.php/provide/vod",
