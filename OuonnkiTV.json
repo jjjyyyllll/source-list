@@ -1,0 +1,86 @@
+[
+  {
+    "id": "source1",
+    "name": "黑木耳",
+    "url": "https://json.heimuer.xyz",
+    "isEnabled": true
+  },
+  {
+    "id": "source2",
+    "name": "霏凡影视",
+    "url": "http://api.ffzyapi.com",
+    "detailUrl": "http://api.ffzyapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source3",
+    "name": "天涯",
+    "url": "https://tyyszy.com",
+    "detailUrl": "https://tyyszy.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source4",
+    "name": "CK影视",
+    "url": "https://www.ckzy1.com",
+    "detailUrl": "https://www.ckzy1.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source5",
+    "name": "360资源",
+    "url": "https://360zy.com",
+    "detailUrl": "https://360zy.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source6",
+    "name": "卧龙",
+    "url": "https://wolongzyw.com",
+    "detailUrl": "https://wolongzyw.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source7",
+    "name": "新华为",
+    "url": "https://cjhwba.com",
+    "detailUrl": "https://cjhwba.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source8",
+    "name": "极速资源",
+    "url": "https://jszyapi.com",
+    "detailUrl": "https://jszyapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source9",
+    "name": "暴风资源",
+    "url": "https://bfzyapi.com",
+    "detailUrl": "https://bfzyapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source10",
+    "name": "魔爪",
+    "url": "https://mozhuazy.com",
+    "detailUrl": "https://mozhuazy.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source11",
+    "name": "魔都",
+    "url": "https://www.mdzyapi.com",
+    "detailUrl": "https://www.mdzyapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "source12",
+    "name": "如意",
+    "url": "https://cj.rycjapi.com",
+    "detailUrl": "https://cj.rycjapi.com",
+    "isEnabled": true
+  }
+
+]
